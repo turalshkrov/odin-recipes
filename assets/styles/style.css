@@ -17,6 +17,9 @@ body {
     text-align: center;
     background-color: #FCF3CF;
 }
+hr {
+    background-color: #000;
+}
 
 #head-title {
     margin-top: 1rem;
